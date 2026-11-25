@@ -1,0 +1,15 @@
+Kennzahl;Wert
+Netz / Typ;Kanal_SW / Freispiegelkanal (Teilesatz Sanitary Sewer)
+Schaechte / Haltungen;7 / 6
+Gesamtlaenge Haltungen (m);300.2
+Rohr;DN 300 PVC, Schacht DN 1500
+Achse Achse_Kanal (m);300.0
+Deckelhoehe max / min (m);89.94 / 76.22
+Sohle Anfang / Ende (m);85.40 / 72.45
+Gefaelle min / max (%);1.00 / 5.85
+Schachttiefe min / max (m);3.76 / 7.82
+Ueberdeckung min / max (m);3.01 / 7.52
+max. Absturz im Schacht (m);1.71 (S6)
+Vollfuellung Q min / max (l/s);107 / 258
+Pruefung Mindestgefaelle 1:DN;alle ok
+Pruefung Ueberdeckung >= 1,0 m;alle ok
